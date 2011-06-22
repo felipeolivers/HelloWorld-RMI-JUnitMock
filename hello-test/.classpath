@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hello-client"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hello-server"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/bsh-core-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/cglib-2.1_3-src.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/jmock-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/jmock-junit3-2.5.1.jar"></classpathentry>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/jmock-junit4-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/jmock-legacy-2.5.1.jar"></classpathentry>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/jmock-script-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/objenesis-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/makeatest-core-0.6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/makeatest-junit-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/makeatest-rmi-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/MakeATest/refs/slf4j-1.6.1/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/MakeATest/refs/slf4j-1.6.1/jcl-over-slf4j-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/MakeATest/refs/slf4j-1.6.1/jul-to-slf4j-1.6.1.jar"></classpathentry>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/MakeATest/refs/slf4j-1.6.1/jul-to-slf4j-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/MakeATest/refs/slf4j-1.6.1/log4j-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/MakeATest/refs/slf4j-1.6.1/log4j-over-slf4j-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FelipeOlivers/Desktop/MakeATest/refs/slf4j-1.6.1/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/ITA/Engenharia de Software/TCC/Trabalho Final/MOCK/jmock-2.5.1/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"></classpathentry>
+	<classpathentry ombineaccessrules="false" kind="src" path="/hello-common"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
